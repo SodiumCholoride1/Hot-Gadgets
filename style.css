@@ -1,0 +1,98 @@
+/* Start Navber*/
+
+.navbar-brand {
+    padding: 1px 20px;
+}
+
+.navbar {
+    padding: 0.1rem 12rem;
+}
+
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.nav-link:hover {
+    color: aqua;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel {
+    padding: 20px 40px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buy-now-btn {
+    background-image: linear-gradient(45deg, lightsalmon, coral);
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.name {
+    font-size: 40px;
+}
+
+.carousel-control-next {
+    color: yellowgreen;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 30px;
+    border: none;
+}
+
+.card-footer {
+    border-top: none;
+    background-color: white;
+}
+
+.opps {
+    color: orange;
+    text-align: right;
+}
+
+.catagories {
+    padding: 50px;
+    height: 500px;
+}
+
+.one {
+    box-shadow: 2px 2px 20px lightgrey;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.two {
+    width: 75%;
+}
+
+.hone {
+    font-size: 40px;
+    text-align: center;
+}
+
+.img {
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
